@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 16 instance 10000",
+	"frame": {"x":0,"y":0,"w":99,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":109},
+	"sourceSize": {"w":99,"h":109}
+}
+,{
+	"filename": "Symbol 16 instance 10001",
+	"frame": {"x":99,"y":0,"w":99,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":109},
+	"sourceSize": {"w":99,"h":109}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.1.19255",
+	"image": "Dog.png",
+	"format": "RGBA8888",
+	"size": {"w":198,"h":109},
+	"scale": "1"
+}
+}

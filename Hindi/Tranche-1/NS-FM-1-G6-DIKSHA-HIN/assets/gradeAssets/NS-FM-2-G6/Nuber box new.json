@@ -1,0 +1,43 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 2 copy instance 10000",
+	"frame": {"x":0,"y":0,"w":58,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":57},
+	"sourceSize": {"w":58,"h":57}
+}
+,{
+	"filename": "Symbol 2 copy instance 10001",
+	"frame": {"x":58,"y":0,"w":58,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":57},
+	"sourceSize": {"w":58,"h":57}
+}
+,{
+	"filename": "Symbol 2 copy instance 10002",
+	"frame": {"x":116,"y":0,"w":58,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":57},
+	"sourceSize": {"w":58,"h":57}
+}
+,{
+	"filename": "Symbol 2 copy instance 10003",
+	"frame": {"x":174,"y":0,"w":58,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":57},
+	"sourceSize": {"w":58,"h":57}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.1.19255",
+	"image": "Nuber box new.png",
+	"format": "RGBA8888",
+	"size": {"w":232,"h":57},
+	"scale": "1"
+}
+}
