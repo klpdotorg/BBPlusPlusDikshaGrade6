@@ -1,0 +1,43 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 2 instance 10000",
+	"frame": {"x":0,"y":0,"w":54,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":85},
+	"sourceSize": {"w":54,"h":85}
+}
+,{
+	"filename": "Symbol 2 instance 10001",
+	"frame": {"x":54,"y":0,"w":54,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":85},
+	"sourceSize": {"w":54,"h":85}
+}
+,{
+	"filename": "Symbol 2 instance 10002",
+	"frame": {"x":108,"y":0,"w":54,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":85},
+	"sourceSize": {"w":54,"h":85}
+}
+,{
+	"filename": "Symbol 2 instance 10003",
+	"frame": {"x":162,"y":0,"w":54,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":85},
+	"sourceSize": {"w":54,"h":85}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.1.19255",
+	"image": "number box 4.png",
+	"format": "RGBA8888",
+	"size": {"w":217,"h":86},
+	"scale": "1"
+}
+}
