@@ -1,0 +1,43 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 6 instance 10000",
+	"frame": {"x":0,"y":0,"w":361,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":361,"h":100},
+	"sourceSize": {"w":361,"h":100}
+}
+,{
+	"filename": "Symbol 6 instance 10001",
+	"frame": {"x":361,"y":0,"w":361,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":361,"h":100},
+	"sourceSize": {"w":361,"h":100}
+}
+,{
+	"filename": "Symbol 6 instance 10002",
+	"frame": {"x":722,"y":0,"w":361,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":361,"h":100},
+	"sourceSize": {"w":361,"h":100}
+}
+,{
+	"filename": "Symbol 6 instance 10003",
+	"frame": {"x":1083,"y":0,"w":361,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":361,"h":100},
+	"sourceSize": {"w":361,"h":100}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.1.19255",
+	"image": "Question and Aunser Box.png",
+	"format": "RGBA8888",
+	"size": {"w":1444,"h":100},
+	"scale": "1"
+}
+}
