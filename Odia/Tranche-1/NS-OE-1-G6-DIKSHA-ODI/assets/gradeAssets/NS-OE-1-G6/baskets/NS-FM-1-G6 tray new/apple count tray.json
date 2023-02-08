@@ -1,0 +1,131 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 11 copy 2 instance 10000",
+	"frame": {"x":0,"y":0,"w":181,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":136},
+	"sourceSize": {"w":181,"h":136}
+}
+,{
+	"filename": "Symbol 11 copy 2 instance 10001",
+	"frame": {"x":181,"y":0,"w":181,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":136},
+	"sourceSize": {"w":181,"h":136}
+}
+,{
+	"filename": "Symbol 11 copy 2 instance 10002",
+	"frame": {"x":362,"y":0,"w":181,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":136},
+	"sourceSize": {"w":181,"h":136}
+}
+,{
+	"filename": "Symbol 11 copy 2 instance 10003",
+	"frame": {"x":543,"y":0,"w":181,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":136},
+	"sourceSize": {"w":181,"h":136}
+}
+,{
+	"filename": "Symbol 11 copy 2 instance 10004",
+	"frame": {"x":724,"y":0,"w":181,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":136},
+	"sourceSize": {"w":181,"h":136}
+}
+,{
+	"filename": "Symbol 11 copy 2 instance 10005",
+	"frame": {"x":905,"y":0,"w":181,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":136},
+	"sourceSize": {"w":181,"h":136}
+}
+,{
+	"filename": "Symbol 11 copy 2 instance 10006",
+	"frame": {"x":1086,"y":0,"w":181,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":136},
+	"sourceSize": {"w":181,"h":136}
+}
+,{
+	"filename": "Symbol 11 copy 2 instance 10007",
+	"frame": {"x":1267,"y":0,"w":181,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":136},
+	"sourceSize": {"w":181,"h":136}
+}
+,{
+	"filename": "Symbol 11 copy 2 instance 10008",
+	"frame": {"x":1448,"y":0,"w":181,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":136},
+	"sourceSize": {"w":181,"h":136}
+}
+,{
+	"filename": "Symbol 11 copy 2 instance 10009",
+	"frame": {"x":1629,"y":0,"w":181,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":136},
+	"sourceSize": {"w":181,"h":136}
+}
+,{
+	"filename": "Symbol 11 copy 2 instance 10010",
+	"frame": {"x":1810,"y":0,"w":181,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":136},
+	"sourceSize": {"w":181,"h":136}
+}
+,{
+	"filename": "Symbol 11 copy 2 instance 10011",
+	"frame": {"x":1991,"y":0,"w":181,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":136},
+	"sourceSize": {"w":181,"h":136}
+}
+,{
+	"filename": "Symbol 11 copy 2 instance 10012",
+	"frame": {"x":2172,"y":0,"w":181,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":136},
+	"sourceSize": {"w":181,"h":136}
+}
+,{
+	"filename": "Symbol 11 copy 2 instance 10013",
+	"frame": {"x":2353,"y":0,"w":181,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":136},
+	"sourceSize": {"w":181,"h":136}
+}
+,{
+	"filename": "Symbol 11 copy 2 instance 10014",
+	"frame": {"x":2534,"y":0,"w":181,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":136},
+	"sourceSize": {"w":181,"h":136}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.1.19255",
+	"image": "apple count tray.png",
+	"format": "RGBA8888",
+	"size": {"w":2717,"h":142},
+	"scale": "1"
+}
+}
